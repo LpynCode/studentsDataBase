@@ -1,4 +1,4 @@
 all:
-	g++ -std=c++20 main.cpp -o a.out
+	g++ -std=c++20 main.cpp -o build.out
 clean:
-	rm a.out
+	rm build.out
